@@ -16,6 +16,15 @@ Fall-2027/
 Spring-2028/
 ```
 
+## 📚 Semester-wise Courses
+
+### Summer 2026 (L2-T3)
+- Discrete Mathematics
+- Microprocessor
+- Microprocessor Lab
+- Simulation
+- Telecommunication
+
 ## 📚 Contents
 
 - Class Notes
