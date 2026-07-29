@@ -18,6 +18,13 @@ Spring-2028/
 
 ## 📚 Semester-wise Courses
 
+### 🍂 Fall 2025 (L2-T1)
+- Electronic Devices and Circuits
+- Engineering Mathematics
+- Signal and Communication System
+- Signal & Communication Lab
+- Statistics
+
 ### Summer 2026 (L2-T3)
 - Discrete Mathematics
 - Microprocessor
