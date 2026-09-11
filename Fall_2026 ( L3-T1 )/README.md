@@ -1,5 +1,8 @@
 # Fall 2026 (L3-T1)
 
+**Daffodil International University**
+Department of Information and Communication Engineering (ICE)
+
 This folder contains all course materials for **Level 3, Term 1**.
 
 ## 📚 Courses
@@ -14,5 +17,8 @@ This folder contains all course materials for **Level 3, Term 1**.
 | ICE 3244 | Database Management System Lab | 1 | A2 | Mostafa Rifat Tazwar |
 
 ## 📁 Folder Contents
-Each subject folder includes relevant notes, assignments, lab 
+Each subject folder includes relevant notes, assignments, lab
 reports, and reference materials collected throughout the semester.
+
+---
+*Part of my [ICE Learning Portfolio](../) repository.*
