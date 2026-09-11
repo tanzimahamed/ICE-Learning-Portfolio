@@ -1,5 +1,8 @@
 # Fall 2025 (L2-T1)
 
+**Daffodil International University**
+Department of Information and Communication Engineering (ICE)
+
 This folder contains all course materials for **Level 2, Term 1**.
 
 ## 📚 Courses
@@ -17,5 +20,8 @@ This folder contains all course materials for **Level 2, Term 1**.
 | EEE 2144 | Electronic Devices and Circuit Laboratory | 1 | B | Engr. Mohammed Sazzad Yousuf Sourab |
 
 ## 📁 Folder Contents
-Each subject folder includes relevant notes, assignments, lab 
+Each subject folder includes relevant notes, assignments, lab
 reports, and reference materials collected throughout the semester.
+
+---
+*Part of my [ICE Learning Portfolio](../) repository.*
