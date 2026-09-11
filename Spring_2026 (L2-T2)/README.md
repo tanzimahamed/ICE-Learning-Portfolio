@@ -1,5 +1,8 @@
 # 📘 Spring 2026 (L2-T2)
 
+**Daffodil International University**
+Department of Information and Communication Engineering (ICE)
+
 This folder contains lecture notes, lab reports, assignments, and
 reference materials for all courses taken during **Level 2, Term 2**.
 
