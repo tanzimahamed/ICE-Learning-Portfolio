@@ -1,6 +1,6 @@
 # 📚 Reference Books
 
-Reference books and study materials for ICE 3242 - Data Base Management System.
+Reference books and study materials for ICE 3243 - Data Base Management System.
 
 ## 📖 Reference Materials
 
